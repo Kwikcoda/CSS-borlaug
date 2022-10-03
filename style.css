@@ -78,8 +78,6 @@ img {
     word-break: break-word;
     max-width: 600px;
     text-align: left;
-    margin-inline-start: 320px;
-    margin-inline-end: 40px;
     /* font-family: 'poppins', sans-serif; */
     font-size: medium;
 }
