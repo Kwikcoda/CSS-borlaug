@@ -83,15 +83,14 @@ img {
     font-size: medium;
 }
 
-div >ul{
-       display: block;
-       align-items: center;
        
 }
 
     blockquote{
     display: block;
     align-items: center;
+    margin-inline-start: 320px;
+    margin-inline-end: 40px;
     word-break: break-word;
     max-width: 600px;
     text-align: left;
