@@ -82,9 +82,10 @@ img {
     font-size: medium;
 }
 
-ul{
-Center horizontally
-margin: 0 auto;
+div >ul{
+       display: block;
+       align-items: center;
+       margin: 0 auto;
 }
 
     blockquote{
