@@ -74,6 +74,8 @@ img {
     display: block;
     align-items: center;
     margin: 30px;
+    margin-inline-start: 320px;
+    margin-inline-end: 40px;
     word-break: break-word;
     max-width: 600px;
     text-align: left;
