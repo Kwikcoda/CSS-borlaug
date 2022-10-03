@@ -72,8 +72,7 @@ img {
 
 .info{
     display: block;
-    margin-block-start: 10px;
-    margin-block-end: 10px;
+    align-items: center;
     margin: 30px;
     word-break: break-word;
     max-width: 600px;
@@ -85,14 +84,12 @@ img {
 div >ul{
        display: block;
        align-items: center;
-       margin: 0 auto;
+       
 }
 
     blockquote{
     display: block;
-    margin-block-start: 10px;
-    margin-block-end: 10px;
-    margin: 30px 340px;
+    align-items: center;
     word-break: break-word;
     max-width: 600px;
     text-align: left;
