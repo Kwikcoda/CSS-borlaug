@@ -84,6 +84,11 @@ img {
     font-size: medium;
 }
 
+ul{
+/* Center horizontally*/
+margin: 0 auto;
+}
+
     blockquote{
     display: block;
     margin-block-start: 10px;
